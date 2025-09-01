@@ -1,0 +1,30 @@
+Domain Name: OPENAI.COM
+   Registry Domain ID: 764064142_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2024-10-17T22:20:04Z
+   Creation Date: 2007-01-19T19:28:24Z
+   Registry Expiry Date: 2029-01-19T19:28:24Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: NS1-02.AZURE-DNS.COM
+   Name Server: NS2-02.AZURE-DNS.NET
+   Name Server: NS3-02.AZURE-DNS.ORG
+   Name Server: NS4-02.AZURE-DNS.INFO
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-09-01T01:09:02Z <<<
+Registrant Organization: OpenAI
+Registrant Country: US
+Registrant Email: Select Request Email Form at https://domains.markmonitor.com/whois/openai.com
+Tech Email: Select Request Email Form at https://domains.markmonitor.com/whois/openai.com
+Web-based WHOIS:
+  https://domains.markmonitor.com/whois/contact/openai.com

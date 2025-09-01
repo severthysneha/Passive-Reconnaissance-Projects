@@ -1,0 +1,40 @@
+Domain Information
+Domain:
+openai.com
+Registered On:
+2007-01-19
+Expires On:
+2029-01-19
+Updated On:
+2024-10-17
+Status:
+client delete prohibited
+client transfer prohibited
+client update prohibited
+server delete prohibited
+server transfer prohibited
+server update prohibited
+Name Servers:
+ns1-02.azure-dns.com
+ns2-02.azure-dns.net
+ns3-02.azure-dns.org
+ns4-02.azure-dns.info
+Registrar Information
+Registrar:
+MarkMonitor Inc.
+IANA ID:
+292
+Abuse Email:
+abusecomplaints@markmonitor.com
+Abuse Phone:
++1.2086851750
+Registrant Contact
+Organization:
+OpenAI
+Country:
+US
+Email:
+https://domains.markmonitor.com/whois/contact/openai.com
+Technical Contact
+Email:
+https://domains.markmonitor.com/whois/contact/openai.com
