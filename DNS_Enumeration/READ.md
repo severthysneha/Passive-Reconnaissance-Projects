@@ -1,8 +1,8 @@
 ##DNS Enumeration
 **This folder contains DNS enumeration work using Whois, Censys and Maltego.
 ##Tools Used
-Whois → Domain details, Registrar info, Name servers, Registrant/technical contact info
-Censys → host, service, software, port, ASN, location, and technology fingerprinting data, IP addresses of the discovered hosts along with metadata
+Whois → Domain details, Registrar info, Name servers, Registrant/technical contact info.
+Censys → host, service, software, port, ASN, location, and technology fingerprinting data, IP addresses of the discovered hosts along with metadata.
 🔹 Screenshots
 📌 Maltego Graph:
 (./screenshots/MALTEGOGRAPH.png)
