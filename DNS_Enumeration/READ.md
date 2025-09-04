@@ -26,3 +26,6 @@ Censys → host, service, software, port, ASN, location, and technology fingerpr
  3.Domain Takeover → If domain renewal is missed.
  📌 Mitigation
  1.Enable DNSSEC to prevent DNS spoofing.
+ 2.Secure registrar accounts with MFA and monitoring.
+3.Regularly audit DNS records for unauthorized changes.
+4.Timely domain renewal to prevent expiration-based attacks.
