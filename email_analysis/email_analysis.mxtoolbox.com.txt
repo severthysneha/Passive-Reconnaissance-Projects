@@ -1,0 +1,15 @@
+Problem Icon DMARC Compliant
+Ok Icon SPF Alignment
+Ok Icon SPF Authenticated
+Ok Icon DKIM Alignment
+Problem Icon DKIM Authenticated
+dmarc:hclteams.com
+v=DMARC1; p=none
+spf:hclteams.com:**.**.***.**
+v=spf1 include:_spf.mail.hostinger.com ~all
+dkim:hclteams.com:hostingermail-a
+Dkim Public Record:
+Dkim Public Record:
+v=DKIM1;k=rsa;p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs+RijpkYCOFcf5HdHXcwSJJdaqCIf9jyybiM8GFNhzhQMYKXmKGefVdmAIaqcKstjtkCMktZRl6uqrd+gnAsslRoEOtfBbWuqtL/1NRovLakhLngQQChKrJQ1EIgbBBtQyJVN3+
+Dkim Signature:
+v=1; a=rsa-sha256; c=relaxed/relaxed; d=hclteams.com; s=hostingermail-a; t=1756879212; h=from:from:reply-to:subject:subject:date:date:message-id:message-id: to:to:cc:mime-version:mime-version:content-type:content-type; bh=5v2d5MlQsPMhmNxCFcjm36A4ByRFp1++EgLS0TwBg7g=; b=kFM2QqvHcm18pkihQGPekAXIXii0qNid7sSP98GRQ8hScajnGT58iroiu3jat7zErtWXGy hxFoPrw0EraOk1k4SaGwCDKCZchhlHnd+l1PYqosr1e6nHUayq9LPsaxEUglKQ2v11mX9d iRQFhn0g32O2bbPVKbI0yBrL+SbWNZg4Oj6Tys4n65ct5ZfRqy/d8pHwGKjlCSBpXvqQOp joMpPQs4ZqoAOMdrF9NPSqjwKtXItlaDBSQ/kLA3Io4b9YB8O7PuLWBkR9bWpvaqBPiiRa rXq40nTXstiPZQC9PYw3pOTpM+bhgnK4XKqTmyjSfiohQOmOTJVlkR0H6iMEEg==

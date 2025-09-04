@@ -1,0 +1,7 @@
+from: HCL Tech <devadath.gowda@hclteams.com>
+to: sneha****@gmail.com
+date: Sep 3, 2025, 11:30 AM
+subject: Invitation to Interview HCL Tech Online Process
+mailed-by: hclteams.com
+signed-by: hclteams.com
+security: Standard encryption (TLS)
