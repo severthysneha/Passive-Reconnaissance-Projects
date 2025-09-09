@@ -5,7 +5,8 @@ This repository contains my **passive reconnaissance exercises** performed as pa
 - **Goal**: Practice information gathering using open-source tools and websites.  
 - **Note**: This is for educational purposes only.  
 ## 📂 Repository Structure
-- `DNS_Enumeration/` → WHOIS outputs, DNS records, screenshots, notes.  
+- DNS_Enumeration -> WHOIS outputs, DNS records, screenshots, notes.
+- E-mail_analysis -> 
 -  (More tools will be added later...)
 ## 🛠 Tools Used
 - WHOIS (Linux + online)  
