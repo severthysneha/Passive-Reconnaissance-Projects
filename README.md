@@ -16,6 +16,6 @@ This repository contains my **passive reconnaissance exercises** performed as pa
 - Maltego (Community Edition)
 - nslookup.io(website)- windows
 - digtool - windows
-- Host and dnsenum
+- Host and dnsenum - linux
 ## ⚠️ Disclaimer
 This project is for **learning purposes only**. Do not misuse these techniques.
