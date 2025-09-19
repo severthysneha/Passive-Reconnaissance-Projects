@@ -1,0 +1,9 @@
+# dig ANY tesla.com +noall +answer        
+tesla.com.              86400   IN      SOA     edns69.ultradns.com. noc.teslamotors.com. 2016025103 1800 86400 86400 86400
+
+# dig axfr @ns1-02.azure-dns.com tesla.com
+
+; <<>> DiG 9.20.11-4-Debian <<>> axfr @ns1-02.azure-dns.com tesla.com
+; (2 servers found)
+;; global options: +cmd
+; Transfer failed.

@@ -1,0 +1,268 @@
+A records:
+IPv4 address	Revalidate in
+Hosted by Akamai International B.V.2.18.52.207	1m 46s
+Hosted by Akamai International B.V.2.18.54.207	1m 46s
+Hosted by Akamai International B.V.2.18.53.207	1m 46s
+Hosted by Akamai International B.V.2.18.50.207	1m 46s
+Hosted by Akamai International B.V.2.18.49.207	1m 46s
+Hosted by Akamai International B.V.2.18.48.207	1m 46s
+Hosted by Akamai International B.V.2.18.51.207	1m 46s
+Hosted by Akamai International B.V.2.18.55.207	1m 46s
+Hosted by Akamai International B.V.23.40.100.207	1m 46s
+Hosted by Akamai International B.V.23.7.244.207	1m 46s
+
+AAAA records:
+No AAAA records found.
+CNAME record
+No CNAME record found.
+
+TXT records:
+Site ownership verification
+Adobe identity provider logo
+Adobe identity provider
+321c026a-3a8c-4206-a1fa-391a59585c54
+
+Adobe Sign logo
+Adobe Sign
+efb2da198047b7a154bd604d2721038b
+
+Apple logo
+Apple
+C9J7eOtEbm7Dqr88
+
+Apple logo
+Apple
+CHZ8RLPKu4dlRxlaNa_nR9oA2MjZ1n2fiE9s0QlbRO8
+
+Atlassian logo
+Atlassian
+U31RjXDO5NBJROoOVpVEsKJ7daGpXuXPDF8HeqlmvXUKOtTao652TOMtejHrohKB
+
+Bugcrowd logo
+Bugcrowd
+40bd5dd89a6e4073ca9bc76feac3a47b
+
+Dell logo
+Dell
+tesla.com
+
+c363f56d-9650-430a-82d3-04ac2257c64a_1756487968
+
+Docker logo
+Docker
+74d1ec4e-a7a6-48a7-9568-9bd0faac833f
+
+
+Google logo
+Google
+Xg2DEUg2oCz1q9RMx8gh2htHK16_GG9cZXY_eyeSf6w
+
+Google logo
+Google
+Y7lbse5bSatjXaqSBOWXjsit4mOp9cQzfLDpnQUSZlg
+
+Jamf logo
+Jamf
+u4x3LuqSfpoLn5nJ0zMd5g
+
+LogMeIn logo
+LogMeIn
+JFAnsPovogeJ4IeW5MXCU3r0C
+
+Microsoft logo
+Microsoft
+-domain-verification
+
+e335cec9-0ff5-4a54-b8bc-8966a8d146db
+
+Microsoft logo
+Microsoft
+ms22358213
+
+
+Microsoft logo
+Microsoft
+-domain-verification
+
+820e4be7-563e-4f52-b73a-5c9ecdd2fda4
+
+OneTrust logo
+OneTrust
+480735b10e124e23916192d7e4321902
+
+OneTrust logo
+OneTrust
+79a1328740f44bc48dd97ab52c0c3377
+
+Salesforce Marketing Cloud logo
+Salesforce Marketing Cloud
+qkAv7SvlQaslp7NEALX8t68s_AZWOQB6ThKQS5l5
+
+TeamViewer logo
+TeamViewer
+2fc989f75b19494fab5eb0e2c22dd625
+
+Traction Guest logo
+Traction Guest
+b4f7ad59-bf17-4b3c-8b36-9c2d28f1de32
+
+Zapier logo
+Zapier
+64e810e8-0fe1-4de0-b104-229592811c5b
+
+SPF record:
+This record is valid for 5m.
+pass if the email sender's IP is 54.240.84.225.
+ip4:54.240.84.225/32
+Or else, pass if the email sender's IP is between 54.240.84.226 and 54.240.84.227.
+ip4:54.240.84.226/31
+Or else, pass if the email sender's IP is between 54.240.84.228 and 54.240.84.231.
+ip4:54.240.84.228/30
+Or else, pass if the email sender's IP is between 54.240.84.232 and 54.240.84.239.
+ip4:54.240.84.232/29
+Or else, pass if the email sender's IP is between 54.240.84.240 and 54.240.84.247.
+ip4:54.240.84.240/29
+Or else, pass if the email sender's IP is between 54.240.84.248 and 54.240.84.251.
+ip4:54.240.84.248/30
+Or else, pass if the email sender's IP is 54.240.84.252.
+ip4:54.240.84.252/32
+Or else, pass if the email sender's IP is 44.239.249.139.
+ip4:44.239.249.139
+Or else, pass if the email sender's IP is 52.24.70.112.
+ip4:52.24.70.112
+Or else, pass if the email sender's IP is 34.223.204.78.
+ip4:34.223.204.78
+Or else, pass if the email sender's IP is 213.244.145.203.
+ip4:213.244.145.203
+Or else, pass if the email sender's IP is 213.244.145.219.
+ip4:213.244.145.219
+Or else, pass if the email sender's IP is 213.244.145.204.
+ip4:213.244.145.204
+Or else, pass if the email sender's IP is 213.244.145.220.
+ip4:213.244.145.220
+Or else, pass if the email sender's IP is 8.47.24.203.
+ip4:8.47.24.203
+Or else, pass if the email sender's IP is 8.47.24.219.
+ip4:8.47.24.219
+Or else, pass if the email sender's IP is 8.47.24.204.
+ip4:8.47.24.204
+Or else, pass if the email sender's IP is 8.47.24.220.
+ip4:8.47.24.220
+Or else, pass if the email sender's IP is 8.45.124.203.
+ip4:8.45.124.203
+Or else, pass if the email sender's IP is 8.45.124.219.
+ip4:8.45.124.219
+Or else, pass if the email sender's IP is 8.45.124.204.
+ip4:8.45.124.204
+Or else, pass if the email sender's IP is 8.45.124.220.
+ip4:8.45.124.220
+Or else, pass if the email sender's IP is 8.21.14.203.
+ip4:8.21.14.203
+Or else, pass if the email sender's IP is 8.21.14.219.
+ip4:8.21.14.219
+Or else, pass if the email sender's IP is 8.21.14.204.
+ip4:8.21.14.204
+Or else, pass if the email sender's IP is 8.21.14.220.
+ip4:8.21.14.220
+Or else, pass if the email sender's IP is 8.21.14.194.
+ip4:8.21.14.194
+Or else, pass if the email sender's IP is 8.21.14.211.
+ip4:8.21.14.211
+Or else, pass if the email sender's IP is between 212.49.145.0 and 212.49.145.255.
+ip4:212.49.145.0/24
+Or else, pass if the email sender's IP is between 91.103.52.0 and 91.103.55.255.
+ip4:91.103.52.0/22
+Or else, pass if the email sender's IP is 168.245.123.10.
+ip4:168.245.123.10
+Or else, pass if the email sender's IP is 216.81.144.165.
+ip4:216.81.144.165
+Or else, pass if the email sender's IP is 149.72.247.52.
+ip4:149.72.247.52
+Or else, pass if the email sender's IP is 149.72.134.64.
+ip4:149.72.134.64
+Or else, pass if the email sender's IP is 149.72.152.236.
+ip4:149.72.152.236
+Or else, pass if the email sender's IP is 149.72.163.58.
+ip4:149.72.163.58
+Or else, pass if the email sender's IP is 149.72.172.170.
+ip4:149.72.172.170
+Or else, pass if the email sender's IP is 167.89.90.62.
+ip4:167.89.90.62
+Or else, pass if the email sender's IP is 158.228.129.79.
+ip4:158.228.129.79
+Or else, pass if the email sender's IP is 216.81.144.165.
+ip4:216.81.144.165
+Or else, pass if the email sender's IP is 117.50.14.178.
+ip4:117.50.14.178
+Or else, pass if the email sender's IP is 117.50.35.199.
+ip4:117.50.35.199
+Or else, pass if the email sender's IP is 54.240.42.110.
+ip4:54.240.42.110
+Or else, pass if the email sender's IP is 54.240.42.111.
+ip4:54.240.42.111
+Or else, pass if the email sender's IP is 199.71.239.178.
+ip4:199.71.239.178
+Or else, pass if the email sender's IP is 67.216.183.10.
+ip4:67.216.183.10
+Or else, pass if the email sender's IP is 8.43.178.222.
+ip4:8.43.178.222
+Or else, pass if the email sender's IP is 64.95.144.196.
+ip4:64.95.144.196
+Or else, pass if the email sender's IP is 199.71.239.52.
+ip4:199.71.239.52
+Or else, include the SPF record at u13494342.wl093.sendgrid.net and pass if it matches the sender's IP.
+include:u13494342.wl093.sendgrid.net
+Or else, include the SPF record at spf.protection.outlook.com and pass if it matches the sender's IP.
+include:spf.protection.outlook.com
+Or else, include the SPF record at mail.zendesk.com and pass if it matches the sender's IP.
+include:mail.zendesk.com
+Or else, include the SPF record at _spfsn.teslamotors.com and pass if it matches the sender's IP.
+include:_spfsn.teslamotors.com
+Or else, include the SPF record at _spf.qualtrics.com and pass if it matches the sender's IP.
+include:_spf.qualtrics.com
+Or else, include the SPF record at _spf.ultipro.com and pass if it matches the sender's IP.
+include:_spf.ultipro.com
+Or else, include the SPF record at _spf.psm.knowbe4.com and pass if it matches the sender's IP.
+include:_spf.psm.knowbe4.com
+Or else, include the SPF record at spf1.sendcloud.org and pass if it matches the sender's IP.
+include:spf1.sendcloud.org
+Or else, include the SPF record at spf2.sendcloud.org and pass if it matches the sender's IP.
+include:spf2.sendcloud.org
+Or else, mark the email as fail.
+-all
+
+Other TXT records:
+TXT data	Revalidate in
+"_f32sd18rpksw3zh1hgbhaulpv016hoh" 	5m
+"_w19nckjurfa4aldim48vtbrxsq1phnv" 	5m
+"cursor-domain-verification-6kgt2s=sxbxrRmk2tNjItWtmh1swmBM0" 	5m
+"domain-verification=0f075f7f33bd0e577c0a56c5bb071f9eedadba45f32da11304913c6afd4b99c7" 	5m
+"logmein-domain-confirmation=9zxwVn2buGWrLtU24J88" 	5m
+"T0E0S29854" 	5m
+"55zNJIDU0xk94IfGJtL+Hh+wje5JzOS6GY+ntggZF908AUsx0LBKgr+Nln3CgZEUifxSuN09M05jYpdbd6+cpw==" 
+
+
+NS records:
+Name server
+a1-12.akam.net.	
+a28-65.akam.net.	
+a7-66.akam.net.	
+a10-67.akam.net.	
+a9-67.akam.net.
+a12-64.akam.net.
+edns69.ultradns.com.	
+
+MX records:
+Mail server	Priority	Revalidate in
+tesla-com.mail.protection.outlook.com.	10 Primary
+Other recordsAdditional record type
+SOA
+
+SOA data:
+Start of authority	edns69.ultradns.com.
+Email	noc@teslamotors.com
+Serial	2016025103
+Refresh	30m
+Retry	24h
+Expire	24h
+Negative cache TTL	24h
