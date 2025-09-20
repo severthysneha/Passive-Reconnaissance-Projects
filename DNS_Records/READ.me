@@ -12,11 +12,20 @@ All work is **passive reconnaissance only** no active exploitation was performed
   - dig axfr @<nameserver> <domain> (zone transfer test)  
   - digtool (online)** — collected: A, MX, NS, SOA, TXT
 ---
-## Attack (information an attacker could gather)
+ Observations (example summary)
+- A / AAAA records → show IP addresses for the domain and subdomains (hosts).  
+- MX records → mail servers responsible for email delivery.  
+- NS records → authoritative name servers (where DNS is hosted).  
+- SOA record → administrative details, serial number, refresh/expiry times.  
+- TXT / SPF / Other TXT → SPF and other policies present (check for properly configured SPF/DKIM/DMARC).  
+- Online tools (nslookup.io, digtool) confirmed Linux outputs and provided extra TXT/SPF details.
+---
+ Attack (information an attacker could gather)
 - Discover mail servers (MX) to target phishing or SMTP-based attacks.  
 - Enumerate subdomain IPs (A/AAAA) to find exposed services.  
 - Identify authoritative NS and SOA info to map DNS infrastructure and maintenance windows.  
 - Weak or missing SPF/DKIM/DMARC entries increase success of email spoofing.
+
 
 
 
