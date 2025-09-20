@@ -1,4 +1,16 @@
-This folder contains DNS record enumeration using **nslookup** (Linux + nslookup.io) and **dig** (Linux + digtool online).  
-All work is **passive reconnaissance only** — no active exploitation was performed.
+This folder contains DNS record enumeration using *nslookup* (Linux + nslookup.io) and *dig* (Linux + digtool online).  
+All work is **passive reconnaissance only** no active exploitation was performed.
+---
+## Tools / Commands Used:
+  - nslookup (Linux)
+  - nslookup -type=MX <domain>  
+  - nslookup -type=TXT <domain>  
+  - nslookup -type=A <domain>  
+  - nslookup.io (online) — collected: A, AAAA, TXT, SPF, Other TXT, NS, MX, SOA  
+  - dig (Linux)  
+  - dig ANY <domain> +noall +answer  
+  - dig axfr @<nameserver> <domain> (zone transfer test)  
+  - digtool (online)** — collected: A, MX, NS, SOA, TXT
+
 
 
