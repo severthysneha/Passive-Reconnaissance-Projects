@@ -6,7 +6,7 @@ This repository contains my **passive reconnaissance exercises** performed as pa
 - **Note**: This is for educational purposes only.  
 ## 📂 Repository Structure
 - DNS_Enumeration -> MALTEGO GRAPH, README.md, censys output, whois(linux) output, whois(online) output.
-- DNS_Records_ -> READ.me, dig(linux) output, digtoolbox(online) output, nslookup.io(online) output, nslookup(linux) output.
+- DNS_Records_ -> MALTEGO GRAPH, READ.me, dig(linux) output, digtoolbox(online) output, nslookup.io(online) output, nslookup(linux) output.
 - email_analysis -> E-mail.jpg, MALTEGOGRAPH2.png, README.md, email_originaldetails, email_analysis.mxtoolbox output, email_header analysis output, README.md.
 -  (More tools will be added later...)
 ## 🛠 Tools Used
