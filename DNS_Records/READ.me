@@ -25,11 +25,19 @@ All work is **passive reconnaissance only** no active exploitation was performed
 - Enumerate subdomain IPs (A/AAAA) to find exposed services.  
 - Identify authoritative NS and SOA info to map DNS infrastructure and maintenance windows.  
 - Weak or missing SPF/DKIM/DMARC entries increase success of email spoofing.
---
+---
 📌Exploit (theoretical(not performed))
 - Email spoofing / phishing if SPF/DKIM/DMARC misconfigured.  
 - Service targeting on discovered IPs (scanning for vulnerable services).  
 - Zone transfer (AXFR) disclosure (if a nameserver allows AXFR, an attacker can obtain the full DNS zone) (all records and subdomains).
+---
+📌Mitigation
+- Implement and enforce SPF, DKIM, DMARC for email protection.  
+- Restrict zone transfers (AXFR) to authorized management IPs only.  
+- Regularly audit A/AAAA/MX/NS/TXT records and remove unused entries.  
+- Monitor DNS changes and SOA serial for unexpected updates.  
+- Use DNSSEC where applicable to protect against spoofing.
+---
 
 
 
